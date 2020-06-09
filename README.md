@@ -54,5 +54,8 @@ Mshooting_Patterns_states.mat
 MStotal_Patterns.mat
 - Binary time-series ata a ntional level on the incidence of mass shootings obtained from the Washington Post database.
 
+permn.m
+- matlab code used to compute all possible values of a binary multivariate time-series.
+
 population.mat
 - Average populations by state from 1999 to 2017 (source: US Census Bureau).
